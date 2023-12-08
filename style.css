@@ -1,0 +1,8 @@
+.nav-item a:hover{
+    background-color: rgb(113, 120, 60);
+    color: white;
+}
+body {
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/494/479/desktop-wallpaper-heartbeat-heart-beat.jpg');
+    background-size: cover;
+}
